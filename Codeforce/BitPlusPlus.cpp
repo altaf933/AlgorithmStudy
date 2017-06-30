@@ -34,3 +34,5 @@ int main()
     
     std::cout<<X;
 }
+
+http://git.sa-labs.info/backgammon/backgammon-electron/blob/master/setup.iss
